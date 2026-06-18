@@ -401,9 +401,357 @@ Bikin 3 master template di Canva, tinggal ganti teks tiap mau posting:
 
 ---
 
-## 🚀 Siap Eksekusi!
+---
 
-✅ 8 konten detail — layout + caption siap pakai
-✅ Story templates — pagi, siang, malam, testimoni
-✅ Panduan Canva — 3 master template
-✅ Jadwal 2 minggu
+## 📦 BATCH 3 — Edukasi & Sosial Proof (Minggu 3)
+
+---
+
+### POST 9 — Carousel "Mitos vs Fakta" (5 Slide)
+**Judul:** Mitos vs Fakta Seputar Website Nakes
+
+| Slide | Isi |
+|-------|-----|
+| 1 | Cover: "Mitos vs Fakta — Website Nakes 🧐" |
+| 2 | ❌ Mitos: "Bikin website itu mahal dan ribet" ✅ Fakta: Mulai Rp25rb/bulan, tinggal isi form |
+| 3 | ❌ Mitos: "Harus jago coding" ✅ Fakta: Gak perlu coding, tinggal pilih template |
+| 4 | ❌ Mitos: "IG aja cukup" ✅ Fakta: Website muncul di Google, jangkau 10x lebih luas |
+| 5 | CTA: Background Sage. "Yakin masih mau Andalin IG aja? Klik link di bio!" |
+
+**Caption:**
+```
+Mitos vs Fakta — Website Nakes 🧐
+
+❌ "Bikin website mahal & ribet"
+✅ Mulai Rp25rb/bulan, tinggal isi form, kami yang build
+
+❌ "Harus jago coding"
+✅ Gak perlu coding — tinggal pilih template, sisanya kita urus
+
+❌ "IG aja cukup"
+✅ Website muncul di Google 24/7. IG cuma jangkau followers
+
+Jadi, masih ragu? Klik link di bio buat buktiin sendiri! 👇
+
+#MitosVsFakta #NakesPro #WebsiteNakes
+```
+
+---
+
+### POST 10 — Carousel Testimoni (4 Slide)
+**Judul:** Kata Mereka yang Udah Pake NakesPro 💬
+
+| Slide | Isi |
+|-------|-----|
+| 1 | Cover: "Kata Mereka 💬" + foto client (jika ada) |
+| 2 | Testimoni 1: Ns. Dewi — "Sekarang pasien sering WA dari Google, praktik jadi ramai" |
+| 3 | Testimoni 2: Bidan Sari — "Dulu bingung cara promosi, sekarang tinggal kirim link website" |
+| 4 | CTA: "Mau kayak mereka? Mulai Rp25rb/bulan. Link di bio!" |
+
+**Caption:**
+```
+Kata mereka yang udah pake NakesPro 💬
+
+"Setelah punya website, pasien lebih percaya. Sering dapat WA dari Google."
+— Ns. Dewi, Homecare Surabaya
+
+"Dulu bingung cara promosi praktik. Sekarang tinggal kirim link website ke pasien."
+— Bidan Sari, Praktik Mandiri
+
+Kamu bisa dapetin hasil yang sama. Klik link di bio! 🚀
+
+#TestimoniNakesPro #NakesPro #WebsiteNakes
+```
+
+---
+
+### POST 11 — Carousel "Kesalahan Nakes di Dunia Digital" (5 Slide)
+**Judul:** 3 Kesalahan Nakes Waktu Promosi Online
+
+| Slide | Isi |
+|-------|-----|
+| 1 | Cover: "3 Kesalahan Nakes Waktu Promosi Online ❌" |
+| 2 | ❌ No 1: "Cuma andalin IG & WA grup" → jangkau sempit, susah dicari pasien baru |
+| 3 | ❌ No 2: "Nomer WA disebar manual" → repot, gak profesional |
+| 4 | ❌ No 3: "Gak punya etalase online" → pasien gak bisa lihat layanan dengan jelas |
+| 5 | CTA: "Solusinya? Website NakesPro. Semua beres dalam satu tempat. Link di bio!" |
+
+**Caption:**
+```
+3 kesalahan nakes waktu promosi online ❌
+
+1️⃣ Cuma andalin IG & WA grup — jangkau sempit, susah dicari pasien baru
+2️⃣ Nomer WA disebar manual — repot, kurang profesional
+3️⃣ Gak punya etalase online — pasien gak bisa lihat layanan dengan jelas
+
+Solusinya satu: Website NakesPro 💻
+- Muncul di Google ✅
+- WA 1 klik ✅
+- Gallery foto ✅
+- Domain gratis ✅
+
+Mulai Rp25rb/bulan. Klik link di bio! 👆
+
+#KesalahanNakes #NakesPro #DigitalNakes
+```
+
+---
+
+## 📦 BATCH 4 — Engagement & Interaktif (Minggu 4)
+
+---
+
+### POST 12 — Reels Challenge
+**Judul:** "Coba search nama praktik kamu di Google — ada hasilnya gak?"
+**Durasi:** 15 detik
+
+**Script:**
+- [0:00] Screen record: buka Google, search nama praktik fiktif
+- [0:05] Hasil: nggak muncul apa-apa
+- [0:10] Cut ke website client yang muncul di Google
+- [0:15] "Mau kayak gini? Link di bio!"
+
+**Caption:**
+```
+Coba search nama praktik kamu di Google. Muncul gak? 🔍
+
+Kalo belum, saatnya punya website biar pasien gampang nemuin kamu.
+
+Mulai Rp25rb/bulan. Link di bio! 👆
+
+#GoogleMyBusiness #NakesPro #WebsiteNakes
+```
+
+---
+
+### POST 13 — Carousel Q&A (5 Slide)
+**Judul:** Yang Paling Sering Ditanyakan Tentang NakesPro 🤔
+
+| Slide | Isi |
+|-------|-----|
+| 1 | Cover: "FAQ — Yang Paling Sering Ditanyakan 🤔" |
+| 2 | Q: "Apa saya bisa ganti template nanti?" A: "Bisa. Tinggal hubungi kami" |
+| 3 | Q: "Domain-nya apa?" A: "{nama}.nakespro.id — gratis" |
+| 4 | Q: "Kalau telat bayar gimana?" A: "Website dinonaktifkan sementara, aktif lagi setelah bayar" |
+| 5 | CTA: "Ada pertanyaan lain? DM aja atau klik link di bio! ⬇️" |
+
+**Caption:**
+```
+Yang paling sering ditanyakan 🤔
+
+💬 "Bisa ganti template?"
+✅ Bisa, tinggal hubungi kami
+
+💬 "Domain-nya apa?"
+✅ {nama}.nakespro.id — gratis
+
+💬 "Kalau telat bayar?"
+✅ Dinonaktifkan sementara, aktif lagi setelah bayar
+
+Ada pertanyaan lain? DM aja atau klik link di bio! 👇
+
+#FAQ #NakesPro #WebsiteNakes
+```
+
+---
+
+### POST 14 — Carousel "Kenapa Pilih NakesPro" (5 Slide)
+**Judul:** Kenapa 10+ Nakes Udah Pake NakesPro? 🏆
+
+| Slide | Isi |
+|-------|-----|
+| 1 | Cover: "Kenapa 10+ Nakes Udah Pake NakesPro?" |
+| 2 | 💰 Harga terjangkau: mulai Rp25rb/bulan |
+| 3 | ⏱ Cepat: live dalam 1-3 hari |
+| 4 | 🛠 Gak ribet: kami yang urus teknis |
+| 5 | CTA: "Gabung juga! Link di bio ⬇️" |
+
+**Caption:**
+```
+Kenapa 10+ nakes udah pake NakesPro? 🏆
+
+💰 Mulai Rp25rb/bulan — lebih murah dari streaming
+⏱ Live dalam 1-3 hari — gak perlu nunggu lama
+🛠 Gak ribet — kami yang urus semuanya
+
+Yang kamu perlu lakuin: isi form & kirim foto. Sisanya kita yang build.
+
+Klik link di bio buat mulai! 🚀
+
+#KenapaNakesPro #NakesPro #WebsiteNakes
+```
+
+---
+
+## 📦 BATCH 5 — Promo & Spesial (Minggu 5+)
+
+---
+
+### POST 15 — Carousel "Bandingin Sendiri" (5 Slide)
+**Judul:** Manual vs Pake NakesPro — Mending Mana?
+
+| Slide | Isi |
+|-------|-----|
+| 1 | Cover: "Manual 🆚 NakesPro — Mending Mana?" |
+| 2 | Manual: Sewa desainer (Rp500rb-2jt) + coding (ribet) |
+| 3 | NakesPro: Rp25rb-39rb/bulan, tinggal isi form |
+| 4 | Manual: Butuh waktu berminggu-minggu |
+| 5 | NakesPro: Live 1-3 hari |
+
+**Caption:**
+```
+Manual vs NakesPro — mending mana? 🤔
+
+𝗠𝗮𝗻𝘂𝗮𝗹:
+💰 Sewa desainer Rp500rb-2jt
+⏱ Butuh waktu berminggu
+😩 Ribet urus hosting & domain
+
+𝗡𝗮𝗸𝗲𝘀𝗣𝗿𝗼:
+💰 Rp25rb-39rb/bulan aja
+⏱ Live 1-3 hari
+✅ Semua beres — tinggal isi form
+
+Jelas lebih hemat & praktis pake NakesPro. Klik link di bio! 🚀
+
+#NakesPro #WebsiteNakes #Perbandingan
+```
+
+---
+
+### POST 16 — Reels "Tour Cepat Template"
+**Judul:** "Penampakan template Calm & Warm — cocok buat bidan & perawat"
+**Durasi:** 30 detik
+
+**Script:**
+- [0:00] Screen record scroll website client dari atas ke bawah
+- [0:10] Voice over: "Ini template Calm & Warm — warna sage & cream, hangat"
+- [0:20] Tunjuk fitur: WA button, gallery, layanan
+- [0:25] "Mau template ini? Klik link di bio!"
+- [0:30] Logo NakesPro
+
+**Caption:**
+```
+Template Calm & Warm — favorit para bidan & perawat ✨
+
+Warna hangat sage & cream, cocok buat nakes yang mau tampil profesional tapi tetap lembut.
+
+Fitur: ✅ Hero dengan foto ✅ Layanan ✅ Gallery ✅ WA 1 klik
+
+Mau pake template ini? Klik link di bio! 🏃‍♂️
+
+#TemplateNakesPro #CalmAndWarm #NakesPro #WebsiteNakes
+```
+
+---
+
+### POST 17 — Carousel "Hemat vs Custom" (5 Slide)
+**Judul:** Bingung Pilih Paket? Ini Bedanya 📋
+
+| Slide | Isi |
+|-------|-----|
+| 1 | Cover: "Paket Hemat 🆚 Custom — Pilih yang Mana?" |
+| 2 | Paket Hemat: Rp25-39rb/bulan, template pilihan, domain sub, 1-3 hari live |
+| 3 | Paket Custom: Rp2jt one-off, desain bebas, domain sendiri, konsultasi WA |
+| 4 | "Baru mulai? Ambil Paket Hemat dulu. Sudah jalan & mau beda? Upgrade ke Custom." |
+| 5 | CTA: "Klik link di bio buat lihat detail & pilih paket!" |
+
+**Caption:**
+```
+Bingung pilih paket? Ini bedanya 📋
+
+𝗣𝗮𝗸𝗲𝘁 𝗛𝗲𝗺𝗮𝘁 (Rp25-39rb/bulan)
+✅ Template siap pilih (4 pilihan)
+✅ Domain .nakespro.id
+✅ Live 1-3 hari
+✅ Cocok buat yang baru mulai
+
+𝗣𝗮𝗸𝗲𝘁 𝗖𝘂𝘀𝘁𝗼𝗺 (Rp2jt one-off)
+✅ Desain bebas sesuai keinginan
+✅ Domain sendiri
+✅ Konsultasi via WA
+✅ Cocok buat yang mau beda & eksklusif
+
+Klik link di bio buat lihat detail lengkapnya! 👆
+
+#PaketNakesPro #NakesPro #WebsiteNakes #HematVsCustom
+```
+
+---
+
+### POST 18 — Carousel "Hemat Tahunan Lebih Untung" (4 Slide)
+**Judul:** Setahun Cuma Rp300rb — Itung-itung sendiri 🔢
+
+| Slide | Isi |
+|-------|-----|
+| 1 | Cover: "Setahun Cuma Rp300rb — Mending Mana?" |
+| 2 | Bulanan: Rp39rb × 12 = Rp468rb/tahun |
+| 3 | Tahunan: Rp300rb/tahun (=Rp25rb/bln) — hemat Rp168rb! |
+| 4 | CTA: "Lebih untung ambil tahunan. Klik link di bio! ⬇️" |
+
+**Caption:**
+```
+Setahun cuma Rp300rb — itung sendiri 🔢
+
+Bulanan: Rp39rb × 12 = Rp468rb/tahun
+Tahunan: Rp300rb/tahun (=Rp25rb/bln)
+
+Hemat Rp168rb kalo ambil tahunan! 🎉
+
+Buruan klik link di bio sebelum promo habis! 🏃‍♂️
+
+#PromoNakesPro #NakesPro #HematTahunan
+```
+
+---
+
+## 🎯 KONTEN BERJALAN (Evergreen)
+
+Konten yang bisa dipost kapan aja tanpa harus ikut jadwal tertentu:
+
+### 1. Klien Baru Live
+Pas ada client baru yang websitenya live, langsung bikin post:
+- Reels: scroll website baru + musik
+- Story: screenshot + "Alhamdulillah, website baru live! ✨"
+- Caption: Cerita singkat tentang client
+
+### 2. Promo / Diskon
+Kalo lagi ada promo:
+- Story countdown
+- Carousel promo
+- Link sticker di story
+
+### 3. Momen Spesial
+- **Hari Perawat Nasional** (17 Maret)
+- **Hari Bidan** (24 Juni)
+- **Hari Kesehatan Nasional** (12 November)
+- **Ramadhan / Lebaran** — promo spesial
+- **Tahun Baru** — resolusi digital
+
+### 4. Interaksi
+- **Story Q&A** tiap hari Selasa
+- **Poll** tiap pagi
+- **Quiz mingguan** (tebak harga, tebak template, dll)
+
+---
+
+## 📊 JADWAL LENGKAP 5 MINGGU
+
+| Minggu | Senin | Rabu | Jumat | Sabtu |
+|--------|-------|------|-------|-------|
+| **1** | POST 1 Edukasi | POST 2 Portofolio | POST 3 Produk | POST 4 Reels |
+| **2** | POST 5 IG vs Web | POST 6 Template | POST 7 Fitur | POST 8 Personal |
+| **3** | POST 9 Mitos/Fakta | POST 10 Testimoni | POST 11 Kesalahan | Reels Challenge |
+| **4** | POST 12 Reels | POST 13 FAQ | POST 14 Kenapa NP | Reels BTS |
+| **5+** | POST 15 Bandingin | POST 16 Tour Template | POST 17 Hemat/Custom | POST 18 Tahunan |
+
+---
+
+## 🚀 Total Konten: 18 Post Siap Eksekusi!
+
+✅ Batch 1 (Minggu 1) — 4 konten: Edukasi, Portofolio, Produk, Reels
+✅ Batch 2 (Minggu 2) — 4 konten: Comparison, Template, Fitur, Personal
+✅ Batch 3 (Minggu 3) — 3 konten: Mitos/Fakta, Testimoni, Kesalahan Nakes
+✅ Batch 4 (Minggu 4) — 3 konten: Challenge, FAQ, Kenapa NakesPro
+✅ Batch 5 (Minggu 5+) — 4 konten: Bandingin, Tour Template, Hemat/Custom, Tahunan
+✅ Konten Evergreen — momen spesial, promo, interaksi
